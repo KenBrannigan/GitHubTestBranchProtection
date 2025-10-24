@@ -11,3 +11,5 @@ We are adding another line for our vs merge test with no pr.
 We are adding another line for our vs merge test new base commit no conflict.
 
 We are adding another line for our vs merge test new base commit with conflict 1-1.
+
+We are adding another line for our vs merge test new base commit with no conflict but unchecking the auto merge option.
